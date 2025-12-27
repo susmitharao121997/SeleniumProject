@@ -13,7 +13,7 @@ The purpose of this project is to automate functional test scenarios for web app
 - TestNG
 - Maven
 - Git
-- 
+
 ## Framework Structure
 
 SeleniumProject
